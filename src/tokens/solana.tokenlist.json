@@ -1,10 +1,38 @@
-,
 {
-  "chainId": 101,
-  "address": "EhW4un8EwrfH8bh4URGfAEuywfK1Jyne2N4QggGfpump",
-  "symbol": "GDF",
-  "name": "Godspeed Digital Force",
-  "decimals": 9,
-  "logoURI": "https://i.imgur.com/eiMJoYX.png",
-  "tags": ["meme", "community", "afterlife", "speed"]
+  "name": "Solana Token List",
+  "tags": {
+    "meme": {
+      "name": "meme",
+      "description": "Meme tokens"
+    },
+    "community": {
+      "name": "community",
+      "description": "Community driven"
+    },
+    "afterlife": {
+      "name": "afterlife",
+      "description": "Transcendence inspired"
+    },
+    "speed": {
+      "name": "speed",
+      "description": "Fast, athletic tokens"
+    }
+  },
+  "timestamp": "2025-06-20T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "EhW4un8EwrfH8bh4URGfAEuywfK1Jyne2N4QggGfpump",
+      "symbol": "GDF",
+      "name": "Godspeed Digital Force",
+      "decimals": 9,
+      "logoURI": "https://i.imgur.com/eiMJoYX.png",
+      "tags": [
+        "meme",
+        "community",
+        "afterlife",
+        "speed"
+      ]
+    }
+  ]
 }
